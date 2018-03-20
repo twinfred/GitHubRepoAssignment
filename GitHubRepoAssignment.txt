@@ -25,3 +25,5 @@
 13. git add .
 
 14. git commit -m "added GitHubRepoAssignment.txt"
+
+15. git push
