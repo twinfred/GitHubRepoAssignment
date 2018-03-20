@@ -1,0 +1,27 @@
+1. Created repository "GetHubRepoAssignment" on GitHub
+
+2. Open terminal
+
+3. md GitHubRepoAssignment
+
+4. cd GitHubRepoAssignment
+
+5. git init
+
+6. copy NUL readme.md
+
+7. git status
+
+8. git add .
+
+9. git commit -m "added readme.md"
+
+10. git remote add origin https://github.com/twinfred/GitHubRepoAssignment.git
+
+11. git push -u origin master
+
+12. copy NUL GitHubRepoAssignment.txt
+
+13. git add .
+
+14. git commit -m "added GitHubRepoAssignment.txt"
